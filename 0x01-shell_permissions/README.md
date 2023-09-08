@@ -4,3 +4,4 @@ groups
 new ownder
 empty
 execute
+multiple permissions
